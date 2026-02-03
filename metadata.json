@@ -1,0 +1,7 @@
+{
+  "name": "LuxeInterior AI - Modern Design Studio",
+  "description": "A high-end interior design portfolio featuring 3D interactive elements, AI-powered design consultations using Gemini, and a responsive modern UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
