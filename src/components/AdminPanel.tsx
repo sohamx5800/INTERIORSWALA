@@ -99,7 +99,7 @@ const AdminPanel: React.FC<AdminPanelProps> = ({
         <div>
           <div className="flex flex-col gap-6 mb-16">
             <img 
-              src="logo.png" 
+              src="/logo.png" 
               alt="Interiorswala" 
               className="h-12 w-auto object-contain self-start opacity-90 transition-opacity hover:opacity-100"
             />

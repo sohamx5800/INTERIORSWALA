@@ -33,7 +33,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-start">
           <a href="#home" className="group cursor-pointer h-10 md:h-14 flex items-center">
             <img 
-              src="logo.png" 
+              src="/logo.png" 
               alt="Interiorswala" 
               className="h-full w-auto object-contain transition-transform duration-500 group-hover:scale-105"
             />

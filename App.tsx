@@ -282,7 +282,7 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-12 text-center md:text-left">
             <div>
-              <img src="logo.png" alt="Logo" className="h-14 mb-8 mx-auto md:mx-0 opacity-80" />
+              <img src="/logo.png" alt="Logo" className="h-14 mb-8 mx-auto md:mx-0 opacity-80" />
               <p className="text-[9px] uppercase tracking-[0.6em] text-white/30 max-w-sm">
                 Architecting the Future of Elite Living. Global Design Collective.
               </p>
